@@ -1,0 +1,22 @@
+/*
+* Caitlin Donnelly
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+     background-color: lightgray;
+    color: black;
+}
+#DapperDog {width: 380px; height: 420px;}
+header { background-color: pink; }
+main { background-color: mediumpurple; }
+footer { background-color:skyblue; }
